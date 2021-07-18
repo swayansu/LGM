@@ -1,2 +1,2 @@
 # LGM
-Source codes for The VIP under Lets Grow More
+Source codes for The Virtual Internship Program under Lets Grow More
